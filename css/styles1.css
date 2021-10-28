@@ -1,6 +1,15 @@
-div {
+.hi{
    /* Background pattern from Toptal Subtle Patterns */
    background-image: url("D:\Udemy WebDev\Web Development\Personal\CSS-My Site\Images\combined_test2.png");
-   height: 400px;
-   width: 100%;
+   text-align: center;
+   margin-top: 20%;
+}
+
+p{
+  color: white;
+  font-family: 'Cutive Mono', monospace;
+}
+
+body{
+  background-color: black;
 }
